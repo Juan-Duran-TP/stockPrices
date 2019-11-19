@@ -1,0 +1,21 @@
+{
+  "name": "stockCalc",
+  "version": "1.0.0",
+  "description": "Google Stock Calculator",
+  "main": "stockCalc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "stock calculator",
+    "Calculator"
+  ],
+  "author": "Juan Duran",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
