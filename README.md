@@ -28,7 +28,7 @@ getMaxProfit(stockPrices) // 6 (buy for $5, sell for $11)`
 Make sure to have npm, Jest, and node-fetch
 
 To run and see the potential gain from last week's Google stocks:
-`node calcStockDriver`
+`node stockCalcDriver`
 
 To run the test, use:
 `npm run test`
